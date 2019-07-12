@@ -1,0 +1,8 @@
+2019-01-19 21:40:41,176 INFO getting app erpnext
+2019-01-19 21:40:41,181 INFO git clone https://github.com/frappe/erpnext   --origin upstream
+2019-01-19 21:41:21,988 INFO installing erpnext
+2019-01-19 21:41:21,988 INFO ./env/bin/pip install -q  -e ./apps/erpnext 
+2019-01-19 21:41:37,887 INFO getting app foundation
+2019-01-19 21:41:37,894 INFO git clone https://github.com/erpnext/foundation --branch master  --origin upstream
+2019-01-19 21:41:53,002 INFO installing foundation
+2019-01-19 21:41:53,003 INFO ./env/bin/pip install -q  -e ./apps/foundation 

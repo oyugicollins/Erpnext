@@ -1,0 +1,745 @@
+Data Import Template,,,
+Table:,Item Price,,
+,,,
+,,,
+Notes:,,,
+Please do not change the template headings.,,,
+First data column must be blank.,,,
+"If you are uploading new records, leave the ""name"" (ID) column blank.",,,
+"If you are uploading new records, ""Naming Series"" becomes mandatory, if present.",,,
+Only mandatory fields are necessary for new records. You can delete non-mandatory columns if you wish.,,,
+"For updating, you can update only selective columns.",,,
+You can only upload upto 5000 records in one go. (may be less in some cases),,,
+,,,
+DocType:,Item Price,,
+Column Labels:,Item Code,Price List,Rate
+Column Name:,item_code,price_list,price_list_rate
+Mandatory:,Yes,Yes,Yes
+Type:,Link,Link,Currency
+Info:,Valid Item,Valid Price List,
+Start entering data below this line,,,
+,1PH,Standard Selling,1000
+,2PH,Standard Selling,1000
+,3PH,Standard Selling,2000
+,4PH,Standard Selling,3000
+,5PH,Standard Selling,1000
+,6PH,Standard Selling,300
+,7PH,Standard Selling,500
+,8PH,Standard Selling,2000
+,9PH,Standard Selling,100
+,10PH,Standard Selling,20
+,11PH,Standard Selling,100
+,12PH,Standard Selling,100
+,13PH,Standard Selling,200
+,14PH,Standard Selling,200
+,15PH,Standard Selling,1000
+,16PH,Standard Selling,500
+,17PH,Standard Selling,5000
+,18PH,Standard Selling,10000
+,19PH,Standard Selling,10000
+,20PH,Standard Selling,10000
+,21PH,Standard Selling,1000
+,22PH,Standard Selling,3000
+,23PH,Standard Selling,3500
+,24PH,Standard Selling,1000
+,25PH,Standard Selling,1000
+,26PH,Standard Selling,2000
+,27PH,Standard Selling,0
+,28PH,Standard Selling,0
+,29PH,Standard Selling,1000
+,30PH,Standard Selling,400
+,31PH,Standard Selling,0
+,32PH,Standard Selling,0
+,33PH,Standard Selling,0
+,34PH,Standard Selling,0
+,35PH,Standard Selling,0
+,36PH,Standard Selling,0
+,37PH,Standard Selling,0
+,38PH,Standard Selling,1000
+,39PH,Standard Selling,2000
+,40PH,Standard Selling,300
+,41PH,Standard Selling,300
+,42PH,Standard Selling,3000
+,43PH,Standard Selling,2000
+,44PH,Standard Selling,3000
+,45PH,Standard Selling,5000
+,46PH,Standard Selling,4000
+,47PH,Standard Selling,1000
+,48PH,Standard Selling,11000
+,49PH,Standard Selling,10000
+,50PH,Standard Selling,1000
+,51PH,Standard Selling,3000
+,52PH,Standard Selling,4000
+,53PH,Standard Selling,5000
+,54PH,Standard Selling,2000
+,55PH,Standard Selling,2000
+,56PH,Standard Selling,2000
+,57PH,Standard Selling,2000
+,58PH,Standard Selling,5000
+,59PH,Standard Selling,1000
+,60PH,Standard Selling,3000
+,61PH,Standard Selling,1000
+,62PH,Standard Selling,400
+,63PH,Standard Selling,1500
+,64PH,Standard Selling,1500
+,65PH,Standard Selling,500
+,66PH,Standard Selling,1000
+,67PH,Standard Selling,2000
+,68PH,Standard Selling,1000
+,69PH,Standard Selling,1000
+,70PH,Standard Selling,2000
+,71PH,Standard Selling,1000
+,72PH,Standard Selling,1000
+,73PH,Standard Selling,1000
+,74PH,Standard Selling,1000
+,75PH,Standard Selling,500
+,76PH,Standard Selling,500
+,77PH,Standard Selling,1000
+,78PH,Standard Selling,500
+,79PH,Standard Selling,500
+,80PH,Standard Selling,300
+,81PH,Standard Selling,300
+,82PH,Standard Selling,300
+,83PH,Standard Selling,1000
+,84PH,Standard Selling,500
+,85PH,Standard Selling,300
+,86PH,Standard Selling,500
+,87PH,Standard Selling,500
+,88PH,Standard Selling,1000
+,89PH,Standard Selling,500
+,90PH,Standard Selling,500
+,91PH,Standard Selling,1000
+,92PH,Standard Selling,5000
+,93PH,Standard Selling,300
+,94PH,Standard Selling,1000
+,95PH,Standard Selling,300
+,96PH,Standard Selling,400
+,97PH,Standard Selling,500
+,98PH,Standard Selling,300
+,99PH,Standard Selling,300
+,100PH,Standard Selling,300
+,101PH,Standard Selling,300
+,102PH,Standard Selling,500
+,103PH,Standard Selling,300
+,104PH,Standard Selling,500
+,105PH,Standard Selling,300
+,106PH,Standard Selling,500
+,107PH,Standard Selling,3000
+,108PH,Standard Selling,500
+,109PH,Standard Selling,300
+,110PH,Standard Selling,300
+,111PH,Standard Selling,300
+,112PH,Standard Selling,300
+,113PH,Standard Selling,300
+,114PH,Standard Selling,1000
+,115PH,Standard Selling,3000
+,116PH,Standard Selling,3000
+,117PH,Standard Selling,300
+,118PH,Standard Selling,1000
+,119PH,Standard Selling,1000
+,120PH,Standard Selling,500
+,121PH,Standard Selling,1000
+,122PH,Standard Selling,300
+,123PH,Standard Selling,300
+,124PH,Standard Selling,1000
+,125PH,Standard Selling,500
+,126PH,Standard Selling,100
+,127PH,Standard Selling,100
+,128PH,Standard Selling,100
+,129PH,Standard Selling,2000
+,130PH,Standard Selling,2000
+,131PH,Standard Selling,500
+,132PH,Standard Selling,400
+,133PH,Standard Selling,750
+,134PH,Standard Selling,300
+,135PH,Standard Selling,4000
+,136PH,Standard Selling,3000
+,137PH,Standard Selling,4000
+,138PH,Standard Selling,3500
+,139PH,Standard Selling,5000
+,140PH,Standard Selling,3500
+,141PH,Standard Selling,5000
+,142PH,Standard Selling,3000
+,143PH,Standard Selling,2500
+,144PH,Standard Selling,5000
+,145PH,Standard Selling,2000
+,146PH,Standard Selling,1000
+,147PH,Standard Selling,1000
+,148PH,Standard Selling,2000
+,149PH,Standard Selling,1000
+,150PH,Standard Selling,1000
+,151PH,Standard Selling,1000
+,152PH,Standard Selling,1000
+,153PH,Standard Selling,600
+,154PH,Standard Selling,5000
+,155PH,Standard Selling,2000
+,156PH,Standard Selling,1000
+,157PH,Standard Selling,2000
+,158PH,Standard Selling,1500
+,159PH,Standard Selling,1500
+,160PH,Standard Selling,1500
+,161PH,Standard Selling,1500
+,162PH,Standard Selling,1000
+,163PH,Standard Selling,10000
+,164PH,Standard Selling,4000
+,165PH,Standard Selling,5000
+,166PH,Standard Selling,1000
+,167PH,Standard Selling,1000
+,168PH,Standard Selling,1000
+,169PH,Standard Selling,5000
+,170PH,Standard Selling,1000
+,171PH,Standard Selling,2000
+,172PH,Standard Selling,2000
+,173PH,Standard Selling,1000
+,174PH,Standard Selling,1000
+,175PH,Standard Selling,1000
+,176PH,Standard Selling,1000
+,177PH,Standard Selling,1000
+,178PH,Standard Selling,1000
+,179PH,Standard Selling,1000
+,180PH,Standard Selling,1000
+,181PH,Standard Selling,2000
+,182PH,Standard Selling,5000
+,183PH,Standard Selling,1500
+,184PH,Standard Selling,1000
+,185PH,Standard Selling,1000
+,186PH,Standard Selling,1000
+,187PH,Standard Selling,1000
+,188PH,Standard Selling,1000
+,189PH,Standard Selling,5000
+,190PH,Standard Selling,5000
+,191PH,Standard Selling,5000
+,192PH,Standard Selling,1000
+,193PH,Standard Selling,3000
+,194PH,Standard Selling,2000
+,195PH,Standard Selling,1000
+,196PH,Standard Selling,1000
+,197PH,Standard Selling,1000
+,198PH,Standard Selling,1000
+,199PH,Standard Selling,1000
+,200PH,Standard Selling,50000
+,201PH,Standard Selling,10000
+,202PH,Standard Selling,3000
+,203PH,Standard Selling,500
+,204PH,Standard Selling,500
+,205PH,Standard Selling,500
+,206PH,Standard Selling,5000
+,207PH,Standard Selling,500
+,208PH,Standard Selling,10000
+,209PH,Standard Selling,5000
+,210PH,Standard Selling,5000
+,211PH,Standard Selling,5000
+,212PH,Standard Selling,1500
+,213PH,Standard Selling,1000
+,214PH,Standard Selling,500
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

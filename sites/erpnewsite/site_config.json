@@ -1,0 +1,13 @@
+{
+ "db_name": "erpnewsite", 
+ "db_password": "53fZg415DFDplIia", 
+ "db_type": "mariadb", 
+ "limits": {
+  "space_usage": {
+   "backup_size": 14.0, 
+   "database_size": 63.66, 
+   "files_size": 2.0, 
+   "total": 79.66
+  }
+ }
+}
